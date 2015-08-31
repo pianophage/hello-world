@@ -42,3 +42,20 @@ Lists run together, I see. So here's a separator paragraph.
       * Probably
       * RUNNING OUT OF THINGS TO SAY
 2. And we're done!
+
+The `Scanner` class implements a scanner which runs over the input text, returning a `Token` for each lexeme it sees.
+
+For example:
+
+```
+Scanner scanner { inputText };
+Token token;
+bool succeeded = scanner.expect(Token::NUMBER, &token); // expect a number to appear next
+if (succeeded) {
+    // use the token, e.g. use its value to calculate a sum or whatever
+} else {
+    // fail and spit out a parse error
+}
+```
+
+[All about Markdown](https://help.github.com/articles/markdown-basics/)
