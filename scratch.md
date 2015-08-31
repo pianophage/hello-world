@@ -32,6 +32,8 @@ A blockquote...
 1. Make an ordered list.
 2. I guess we're done here.
 
+Lists run together, I see. So here's a separator paragraph.
+
 1. A list
   1. A nested list
   2. Another item
