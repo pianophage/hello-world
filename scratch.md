@@ -24,3 +24,19 @@ A blockquote...
 *Some nice italic text __AND THEN SOME URGENT BOLD TEXT__*
 
 **SOME URGENT BOLD TEXT _and then some nice italic text_**
+
+* An unordered list item.
+* Another unordered list item.
+- An unordered list item using a dash.
+
+1. Make an ordered list.
+2. I guess we're done here.
+
+1. A list
+  1. A nested list
+  2. Another item
+    * A nested unordered list
+    * Ok
+      * Probably
+      * RUNNING OUT OF THINGS TO SAY
+2. And we're done!
