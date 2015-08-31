@@ -21,6 +21,6 @@ A blockquote...
 
 **SOME URGENT BOLD TEXT**
 
-*Some nice italic text _AND THEN SOME URGENT BOLD TEXT_*
+*Some nice italic text __AND THEN SOME URGENT BOLD TEXT__*
 
 **SOME URGENT BOLD TEXT _and then some nice italic text_**
