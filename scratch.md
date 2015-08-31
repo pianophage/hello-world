@@ -17,3 +17,10 @@ A blockquote...
 
 > ...is done with greentext?
 
+*Some nice italic text*
+
+**SOME URGENT BOLD TEXT**
+
+*Some nice italic text _AND THEN SOME URGENT BOLD TEXT_*
+
+**SOME URGENT BOLD TEXT _and then some nice italic text_**
